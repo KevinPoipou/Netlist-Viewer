@@ -4,8 +4,12 @@ This application, developed in C++ and using Qt4, allows you to read XML descrip
 
 ## Getting Started
 
-To run the application, follow these steps:
-
+### Required package :
+- Qt4
+- cmake
+- c++ compiler
+- 
+###To run the application, follow these steps:
 1. Navigate to the build folder
    ```bash
    cd build
@@ -20,4 +24,5 @@ To run the application, follow these steps:
    ./tme810
 
 
+##The application
 ![Preview of the app on a fulladder](./images/app.png)
