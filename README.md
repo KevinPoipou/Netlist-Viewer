@@ -1,5 +1,7 @@
 # Netlist Viewer
 
+![Preview of the app on a fulladder](./images/app.png)
+
 ## Getting Started
 
 To run the application, follow these steps:
