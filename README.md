@@ -1,6 +1,6 @@
 # Netlist Viewer
 
-![Preview of the app on a fulladder](./images/app.png)
+This application, developed in C++ and using Qt4, allows you to read XML descriptions of digital circuits and display them
 
 ## Getting Started
 
@@ -18,3 +18,6 @@ To run the application, follow these steps:
 5. Execute the application
    ```bash
    ./tme810
+
+
+![Preview of the app on a fulladder](./images/app.png)
