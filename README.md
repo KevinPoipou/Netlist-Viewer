@@ -8,7 +8,7 @@ This application, developed in C++ and using Qt4, allows you to read XML descrip
 - Qt4
 - cmake
 - c++ compiler
-- 
+  
 ### To run the application, follow these steps:
 1. Navigate to the build folder
    ```bash
