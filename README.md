@@ -24,5 +24,19 @@ This application, developed in C++ and using Qt4, allows you to read XML descrip
    ./tme810
 
 ## The application
-
 ![Preview of the app on a fulladder](./images/app.png)
+
+### Shortcuts
+
+| Shortcut       | Action                                      |
+|----------------|---------------------------------------------|
+| Arrow keys     | Navigate through the application            |
+| Ctrl +         | Zoom in                                     |
+| Ctrl -         | Zoom out                                    |
+| Ctrl =         | Set zoom to default                         |
+| Ctrl S         | Save                                        |
+| Ctrl O         | Open a new cell                             |
+| Ctrl C         | Open the current instances widget           |
+| Ctrl I         | Open the cells library                      |
+| Ctrl A         | Open the current instances widget and cells library |
+| Ctrl Q         | Quit the app                                |
