@@ -40,3 +40,6 @@ This application, developed in C++ and using Qt4, allows you to read XML descrip
 | Ctrl I         | Open the cells library                      |
 | Ctrl A         | Open the current instances widget and cells library |
 | Ctrl Q         | Quit the app                                |
+
+
+If you don't want the widgets to end up behind the application, you can force them to always stay on top in the Options > Widget priority
