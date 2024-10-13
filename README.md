@@ -1,6 +1,13 @@
-# Netlist-Viewer
+# Netlist Viewer
 
-To run the application, navigate to the build folder and execute the following command: 
-cmake ../src
-make install
-./tme810
+## Getting Started
+
+To run the application, follow these steps:
+
+1. **Navigate to the build folder**:
+   ```bash
+   cd build
+   cmake ../src
+   make install
+
+   ./tme810
