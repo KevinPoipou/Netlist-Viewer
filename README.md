@@ -23,5 +23,5 @@ This application, developed in C++ and using Qt4, allows you to read XML descrip
    ```bash
    ./tme810
 
-##The application
+## The application
 ![Preview of the app on a fulladder](./images/app.png)
